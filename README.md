@@ -1,1 +1,1 @@
-My first readme
+Alu is the beginning of my journey.
